@@ -111,6 +111,10 @@ No Framer:
    - domínio customizado.
 3. Confirme a publicação.
 
+### 4. Link Publico do Projeto no Framer
+
+https://framer.com/projects/ozzy-barbearia--KSzOVGVessRh6BpGXYA7-6RIVg
+
 ---
 
 # Estrutura de Agendamento
@@ -174,6 +178,10 @@ No editor do Make:
 ```text
 MyAPIWithFramerOzzyBarbearia.blueprint.json
 ```
+## 4. Link Publico do Cenário
+
+https://us2.make.com/public/shared-scenario/ONa5JF5l0pv/my-apiwith-framer-ozzy-barbearia
+
 
 ---
 
@@ -406,20 +414,6 @@ O projeto utiliza:
 - validar erros de execução;
 - utilizar filtros para evitar dados inválidos;
 - monitorar limite de operações.
-
----
-
-# Possíveis Melhorias Futuras
-
-## Sugestões
-
-- integração com banco de dados;
-- autenticação administrativa;
-- painel de gestão de agendamentos;
-- integração com WhatsApp;
-- confirmação automática via SMS;
-- calendário inteligente;
-- integração com APIs de pagamento.
 
 ---
 

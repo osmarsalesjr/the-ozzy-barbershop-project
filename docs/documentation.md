@@ -4,24 +4,24 @@
 
 A Ozzy Barbearia é uma aplicação web desenvolvida com foco na apresentação de serviços voltados ao cuidado pessoal masculino, incluindo:
 
-- cortes de cabelo;
-- barba;
-- manicure e pedicure;
-- sobrancelhas;
-- agendamentos online.
+- Cortes de cabelo;
+- Barba;
+- Manicure e pedicure;
+- Sobrancelhas;
+- Agendamentos online.
 
 O projeto possui caráter:
-- institucional;
-- catálogo de serviços;
-- experiência visual moderna;
-- integração automatizada para agendamentos.
+- Institucional;
+- Catálogo de serviços;
+- Experiência visual moderna;
+- Integração automatizada para agendamentos.
 
 ### Público-alvo
 
 Homens interessados em:
-- estética masculina;
-- cuidados pessoais;
-- experiência premium.
+- Estética masculina;
+- Cuidados pessoais;
+- Experiência premium.
 
 ---
 
@@ -29,25 +29,25 @@ Homens interessados em:
 
 O projeto possui como principais finalidades:
 
-- apresentar a marca Ozzy Barbearia;
-- comunicar missão e proposta visual;
-- expor serviços prestados;
-- facilitar contato;
-- permitir solicitação de agendamento;
-- fortalecer identidade visual e presença digital.
+- Apresentar a marca Ozzy Barbearia;
+- Comunicar missão e proposta visual;
+- Expor serviços prestados;
+- Facilitar contato;
+- Permitir solicitação de agendamento;
+- Fortalecer identidade visual e presença digital.
 
 ---
 
 ## Estrutura Geral
 
 O site segue uma estrutura típica de:
-- landing page institucional;
-- catálogo de serviços;
-- navegação multipágina;
+- Landing page institucional;
+- Catálogo de serviços;
+- Navegação multipágina;
 - CMS integrado;
-- formulários conectados a automações.
+- Formulários conectados a automações.
 
-Páginas identificadas:
+Páginas:
 
 | Página | Função |
 |---|---|
@@ -68,46 +68,44 @@ Páginas identificadas:
 
 - Framer
 
-### Evidências Técnicas
+### Informações Técnicas
 
-Detectado:
-- renderização baseada em componentes;
-- estrutura típica exportada do Framer;
-- roteamento interno automático;
-- animações nativas do Framer Motion;
-- organização visual baseada em sections/frames;
-- assets hospedados via CDN do Framer.
+- Renderização baseada em componentes;
+- Estrutura típica exportada do Framer;
+- Roteamento interno automático;
+- Animações nativas do Framer Motion;
+- Organização visual baseada em sections/frames;
+- Assets hospedados via CDN do Framer.
 
 ---
 
 ## Estratégia Arquitetural
 
-### Modelo estrutural identificado
+### Modelo estrutural
 
 O site segue:
 
-- arquitetura componentizada;
-- reutilização de blocos visuais;
-- tema visual centralizado;
-- estrutura de design system implícita;
+- Arquitetura componentizada;
+- Reutilização de blocos visuais;
+- Tema visual centralizado;
+- Estrutura de design system implícita;
 - CMS para renderização dinâmica de serviços.
 
 ---
 
-## Frameworks e Bibliotecas Detectadas
+## Frameworks e Bibliotecas
 
-| Tecnologia | Status |
+| Tecnologia |
 |---|---|
-| Framer | Detectado |
-| React | Provável |
-| Framer Motion | Provável |
-| CMS Framer | Detectado |
-| JavaScript modular | Detectado |
-| CSS-in-JS do Framer | Provável |
-| Responsividade nativa do Framer | Detectado |
-| Make.com | Detectado |
-| Google Sheets | Detectado |
-| Gmail Integration | Detectado |
+| Framer |
+| Framer Motion |
+| CMS Framer |
+| JavaScript modular |
+| CSS-in-JS do Framer |
+| Responsividade nativa do Framer |
+| Make.com |
+| Google Sheets |
+| Gmail Integration |
 
 ---
 
@@ -120,11 +118,11 @@ https://ozzy-barbearia.framer.website/
 
 ### Objetivo
 
-- apresentação da marca;
-- introdução dos serviços;
-- direcionamento para agendamento.
+- Apresentação da marca;
+- Introdução dos serviços;
+- Direcionamento para agendamento.
 
-### Componentes Identificados
+### Componentes
 
 - Navbar;
 - Hero banner;
@@ -148,7 +146,7 @@ https://ozzy-barbearia.framer.website/work
 
 Apresentar catálogo visual de serviços.
 
-### Estrutura Detectada
+### Estrutura
 
 - Grid de serviços;
 - Cards clicáveis;
@@ -159,18 +157,18 @@ Apresentar catálogo visual de serviços.
 
 # 4. Estrutura HTML
 
-## Estratégia Estrutural Identificada
+## Estratégia Estrutural
 
 O HTML renderizado aparenta seguir o padrão do Framer:
 
-- múltiplos containers `<div>`;
-- estrutura em frames;
-- uso intenso de classes geradas automaticamente;
-- organização hierárquica baseada em componentes.
+- Múltiplos containers `<div>`;
+- Estrutura em frames;
+- Uso intenso de classes geradas automaticamente;
+- Organização hierárquica baseada em componentes.
 
 ---
 
-## Elementos Estruturais Detectados
+## Elementos Estruturais
 
 ### Header
 
@@ -228,62 +226,60 @@ O HTML renderizado aparenta seguir o padrão do Framer:
 
 # 5. Estrutura CSS
 
-## Estratégia Visual Detectada
+## Estratégia Visual
 
 O projeto utiliza:
 
-- estilização visual centralizada;
-- tokens visuais compartilhados;
-- padrões consistentes;
-- responsividade nativa do Framer.
+- Estilização visual centralizada;
+- Tokens visuais compartilhados;
+- Padrões consistentes;
+- Responsividade nativa do Framer.
 
 ---
 
 ## Sistema Visual
 
-### Características detectadas
+### Características
 
-- visual minimalista;
-- estética premium;
-- predominância de contraste;
-- foco em tipografia forte;
-- imagens de destaque;
-- espaçamento generoso.
+- Visual minimalista;
+- Estética premium;
+- Predominância de contraste;
+- Foco em tipografia forte;
+- Imagens de destaque;
+- Espaçamento generoso.
 
 ---
 
 ## Responsividade CSS
 
-Detectado:
-
-- menu colapsável;
-- adaptação de grids;
-- largura relativa;
-- containers fluidos;
-- reorganização vertical em mobile.
+- Menu colapsável;
+- Adaptação de grids;
+- Largura relativa;
+- Containers fluidos;
+- Reorganização vertical em mobile.
 
 ---
 
 # 6. Estrutura JavaScript
 
-## Comportamentos Detectados
+## Comportamentos
 
-| Funcionalidade | Status |
+| Funcionalidade |
 |---|---|
-| Navegação dinâmica | Detectado |
-| Animações de transição | Detectado |
-| Hover animations | Detectado |
-| Submit assíncrono | Detectado |
-| Integração webhook | Detectado |
-| CMS dinâmico | Detectado |
+| Navegação dinâmica |
+| Animações de transição |
+| Hover animations |
+| Submit assíncrono |
+| Integração webhook |
+| CMS dinâmico |
 
 ---
 
-## Integrações Externas Detectadas
+## Integrações Externas
 
 ### Make.com
 
-Fluxo identificado:
+Fluxo:
 
 1. Webhook recebe formulário;
 2. Dados enviados ao Make.com;
@@ -319,25 +315,25 @@ Função:
 
 ---
 
-# 7. Componentes Identificados
+# 7. Componentes
 
 ## Navbar
 
 ### Função
-- navegação global;
-- acesso rápido às páginas.
+- Navegação global;
+- Acesso rápido às páginas.
 
 ### Comportamento
-- colapsável em mobile;
-- sticky provável.
+- Colapsável em mobile;
+- Sticky.
 
 ---
 
 ## Hero Section
 
 ### Função
-- posicionamento visual;
-- branding;
+- Posicionamento visual;
+- Branding;
 - CTA principal.
 
 ---
@@ -345,62 +341,59 @@ Função:
 ## Cards de Serviço
 
 ### Função
-- catálogo visual;
-- navegação contextual.
+- Catálogo visual;
+- Navegação contextual.
 
 ### Comportamento
-- clique navegável;
-- hover visual.
+- Clique navegável;
+- Hover visual.
 
 ---
 
 ## Formulário
 
 ### Função
-- solicitação de agendamento.
+- Solicitação de agendamento.
 
 ### Integração
-- webhook Make.com.
+- Webhook Make.com.
 
 ---
 
 ## Footer
 
 ### Função
-- informações institucionais;
-- links complementares;
-- identidade visual.
+- Informações institucionais;
+- Links complementares;
+- Identidade visual.
 
 ---
 
 # 8. Responsividade
 
-## Estratégias Detectadas
+## Estratégias
 
 ### Mobile
 
-Detectado:
-- colapso do menu;
-- reorganização vertical;
-- adaptação de imagens;
-- containers fluidos.
+- Colapso do menu;
+- Reorganização vertical;
+- Adaptação de imagens;
+- Containers fluidos.
 
 ---
 
 ## Tablet
 
-Provável:
-- grids intermediários;
-- espaçamentos ajustados.
+- Grids intermediários;
+- Espaçamentos ajustados.
 
 ---
 
 ## Desktop
 
-Detectado:
-- layout expandido;
-- hero horizontal;
-- maior uso visual de imagens.
+- Layout expandido;
+- Hero horizontal;
+- Maior uso visual de imagens.
 
 ---
 
@@ -408,95 +401,68 @@ Detectado:
 
 ## SEO
 
-### Detectado
-
-- heading hierarchy;
-- páginas separadas;
+- Heading hierarchy;
+- Páginas separadas;
 - URLs amigáveis;
-- conteúdo institucional estruturado.
-
-### Provável
-
-- meta descriptions;
-- Open Graph;
-- metadata do Framer.
+- Conteúdo institucional estruturado.
 
 ---
 
 ## Performance
 
-### Detectado
-
-- assets otimizados via CDN;
-- lazy loading provável;
-- otimização automática do Framer;
-- imagens responsivas.
+- Assets otimizados via CDN;
+- Lazy loading;
+- Otimização automática do Framer;
+- Imagens responsivas.
 
 ---
 
-# 10. Correlação com o Roteiro do Usuário
+# 10. Conteúdo e Usuário
 
 ## Objetivo Institucional
 
-### Requisito
-
 Apresentar a Ozzy Barbearia e seus serviços.
-
-### Evidências Encontradas
 
 - Homepage institucional;
 - Sessões explicativas;
 - Catálogo visual;
 - Página About.
 
-### Implementação Detectada
+### Implementação
 
-- estrutura orientada a branding;
-- navegação clara;
+- Estrutura orientada a branding;
+- Navegação clara;
 - CTA para agendamento.
 
 ---
 
 ## Uso do Framer
 
-### Requisito
+Uso de ferramenta visual low-code/no-code com maior disponibilidade de recursos visuais gratuitos e maior intuitividade para implementação e construção de páginas.
 
-Uso de ferramenta visual low-code/no-code.
-
-### Evidências
-
-Detectado:
-- padrão estrutural do Framer;
+- Padrão estrutural do Framer;
 - CMS integrado;
-- componentização nativa.
+- Componentização nativa.
 
 ---
 
 ## CMS para Serviços
 
-### Requisito
-
 Serviços renderizados dinamicamente.
 
 ### Evidências
 
-- páginas `/work/*`;
-- estrutura repetitiva consistente;
-- comportamento típico de CMS Collection.
+- Páginas `/work/*`;
+- Estrutura repetitiva consistente;
+- Comportamento típico de CMS Collection.
 
 ---
 
 ## Integração Make.com
 
-### Requisito
+Automação de agendamentos para guardar os dados do cliente e notificá-lo por email.
 
-Automação de agendamentos.
-
-### Evidências
-
-Webhook + Google Sheets + Gmail detectados no cenário anexado.
-
-### Fluxo Detectado
+### Fluxo
 
 Cliente → Formulário → Make → Planilha → Email automático
 
@@ -529,158 +495,102 @@ Cliente → Formulário → Make → Planilha → Email automático
 
 ---
 
-# 12. Aplicação de Padrões Web
-
-## HTML
-
-Aplicação observada:
-- separação por seções;
-- hierarquia visual;
-- componentes reutilizáveis.
-
----
-
-## CSS
-
-Aplicação observada:
-- consistência visual;
-- design responsivo;
-- grid adaptativo;
-- tipografia padronizada.
-
----
-
-## JavaScript
-
-Aplicação observada:
-- interatividade;
-- transições;
-- integração externa;
-- renderização dinâmica.
-
----
-
-# 13. Elementos Customizados Manualmente
+# 12. Elementos Customizados Manualmente
 
 ## Integração com Make.com
 
-Maior elemento customizado identificado.
+Integração do formulário de agendamento com Make.com.
 
 ### Valor agregado
 
-- automação operacional;
-- persistência de dados;
-- confirmação automática;
-- melhoria da experiência do cliente.
+- Automação operacional;
+- Persistência de dados;
+- Confirmação automática;
+- Melhoria da experiência do cliente.
 
 ---
 
 ## Estrutura CMS
 
 Customização do template base:
-- adaptação para catálogo;
-- páginas específicas de serviços;
-- identidade visual própria.
+- Adaptação da base para catálogo de serviços;
+- Páginas específicas de serviços;
+- Identidade visual própria.
 
 ---
 
-# 14. Cuidados com Responsividade e Acessibilidade
+# 13. Cuidados com Responsividade e Acessibilidade
 
 ## Responsividade
 
-Implementações detectadas:
-- layouts fluidos;
-- menu mobile;
-- grids adaptativos;
-- imagens responsivas.
+- Layouts fluidos;
+- Menu mobile;
+- Grids adaptativos;
+- Imagens responsivas.
 
 ---
 
-## Acessibilidade
-
-### Detectado
-
-- contraste visual adequado;
-- navegação clara;
-- botões destacados.
-
-### Não identificado claramente
-
-- ARIA labels;
-- navegação via teclado;
-- contraste validado WCAG;
-- landmarks semânticos avançados.
-
----
-
-# 15. Aprendizados sobre No-Code/Low-Code
+# 14. Aprendizados sobre No-Code/Low-Code
 
 ## Benefícios
 
-- aceleração extrema de desenvolvimento;
-- facilidade de prototipagem;
-- forte integração visual;
-- redução de complexidade frontend.
+- Aceleração extrema de desenvolvimento;
+- Facilidade de prototipagem;
+- Forte integração visual;
+- Redução de complexidade frontend.
 
 ---
 
 ## Limitações
 
-- abstração excessiva do HTML;
-- menor controle de performance;
-- dependência estrutural da plataforma;
-- dificuldade de customizações avançadas.
+- Abstração excessiva do HTML;
+- Menor controle de performance;
+- Dependência estrutural da plataforma;
+- Dificuldade de customizações avançadas.
 
 ---
 
-# 16. Possíveis Melhorias
+# 15. Possíveis Melhorias
 
 ## Estruturais
 
-- melhorar semântica HTML;
-- adicionar landmarks acessíveis;
-- reforçar SEO técnico.
+- Melhorar semântica HTML;
+- Adicionar landmarks acessíveis;
+- Reforçar SEO técnico;
+- Validações dos dias e horários de agendamento.
 
 ---
 
 ## Performance
 
-- otimização adicional de imagens;
-- redução de scripts externos;
-- controle mais granular de carregamento.
+- Otimização adicional de imagens;
+- Redução de scripts externos;
+- Controle mais granular de carregamento.
 
 ---
 
-## Acessibilidade
-
-- suporte completo a teclado;
-- melhorias ARIA;
-- validação WCAG.
-
----
-
-# 17. Conclusão Técnica
+# 16. Conclusão Técnica
 
 O projeto da Ozzy Barbearia demonstra uma implementação sólida utilizando abordagem no-code/low-code através do Framer, com forte foco em:
 
-- identidade visual;
-- experiência do usuário;
-- responsividade;
-- automação operacional;
-- catálogo institucional.
+- Identidade visual;
+- Experiência do usuário;
+- Responsividade;
+- Automação operacional;
+- Catálogo institucional.
 
 A integração com Make.com amplia significativamente as capacidades do site ao transformar um formulário simples em um fluxo automatizado completo envolvendo:
-- armazenamento estruturado;
-- automação operacional;
-- comunicação com clientes.
+- Armazenamento estruturado;
+- Automação operacional;
+- Comunicação com clientes.
 
-A arquitetura encontrada mostra uma boa aplicação prática de:
+A arquitetura mostra uma boa aplicação prática de:
 - HTML;
 - CSS;
 - JavaScript;
 - componentização;
 - CMS;
-- automação web;
-- design responsivo.
+- Automação web;
+- Design responsivo.
 
 Mesmo utilizando uma plataforma visual, o projeto evidencia compreensão consistente sobre padrões modernos de desenvolvimento frontend e experiência digital.
