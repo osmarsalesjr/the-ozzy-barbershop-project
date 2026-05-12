@@ -304,14 +304,14 @@ Campos recebidos:
 ## Integração Google Sheets
 
 Função:
-- persistência de agendamentos.
+- Persistência de agendamentos.
 
 ---
 
 ## Integração Gmail
 
 Função:
-- confirmação automática ao cliente.
+- Confirmação automática ao cliente.
 
 ---
 
@@ -569,7 +569,7 @@ Customização do template base:
 
 ---
 
-# 16. Conclusão Técnica
+# 16. Conclusão
 
 O projeto da Ozzy Barbearia demonstra uma implementação sólida utilizando abordagem no-code/low-code através do Framer, com forte foco em:
 
@@ -580,11 +580,13 @@ O projeto da Ozzy Barbearia demonstra uma implementação sólida utilizando abo
 - Catálogo institucional.
 
 A integração com Make.com amplia significativamente as capacidades do site ao transformar um formulário simples em um fluxo automatizado completo envolvendo:
+
 - Armazenamento estruturado;
 - Automação operacional;
 - Comunicação com clientes.
 
 A arquitetura mostra uma boa aplicação prática de:
+
 - HTML;
 - CSS;
 - JavaScript;

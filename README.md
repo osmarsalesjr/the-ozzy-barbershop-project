@@ -470,3 +470,5 @@ O projeto foi estruturado para facilitar:
 - evolução futura;
 - reutilização;
 - onboarding de novos desenvolvedores.
+
+Acessa a documentação completa [aqui.](/docs/documentation.pdf)
