@@ -150,6 +150,7 @@ O cenário já está pronto e exportado no arquivo:
 ```text
 MyAPIWithFramerOzzyBarbearia.blueprint.json
 ```
+Acesse o arquivo [aqui.](docs/MyAPIWithFramerOzzyBarbearia.blueprint.json)
 
 ---
 
@@ -477,4 +478,5 @@ O projeto foi estruturado para facilitar:
 - Onboarding de novos desenvolvedores.
 
 Acessa a documentação completa [aqui.](/docs/documentation.pdf)
+
 Assista ao vídeo de apresentação do projeto [aqui.](https://drive.google.com/file/d/1WzrPzscTGI48_sxW96IOHpwx7jTCBqO0/view?usp=sharing)
