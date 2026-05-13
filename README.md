@@ -115,6 +115,10 @@ No Framer:
 
 https://framer.com/projects/ozzy-barbearia--KSzOVGVessRh6BpGXYA7-6RIVg
 
+## 5. Link Publico do Website
+
+https://ozzy-barbearia.framer.website/
+
 ---
 
 # Estrutura de Agendamento
@@ -282,7 +286,7 @@ Localize o formulário de agendamento.
 
 ### 3. Configurar Submit
 
-No botão ou formulário:
+No formulário:
 
 - método:
 ```text
@@ -291,7 +295,7 @@ POST
 
 - endpoint:
 ```text
-Webhook URL do Make.com
+Ajustar o Webhook URL do Make.com (Caso tenha criado um novo webhook)
 ```
 
 ---
@@ -332,6 +336,7 @@ O webhook espera exatamente os seguintes campos:
 
 ### 1. Publicar o site
 
+Ajustar form com link webhook em /appointment
 Publique o projeto no Framer.
 
 ---
@@ -472,3 +477,4 @@ O projeto foi estruturado para facilitar:
 - onboarding de novos desenvolvedores.
 
 Acessa a documentação completa [aqui.](/docs/documentation.pdf)
+Assista ao vídeo de apresentação do projeto [aqui.](https://drive.google.com/file/d/1WzrPzscTGI48_sxW96IOHpwx7jTCBqO0/view?usp=sharing)
