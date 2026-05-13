@@ -4,11 +4,11 @@
 
 O projeto **Ozzy Barbearia** é um site institucional desenvolvido utilizando a plataforma **Framer**, com foco em:
 
-- apresentação da marca;
-- catálogo de serviços;
-- experiência visual moderna;
-- solicitação de agendamentos;
-- automação de atendimento utilizando Make.com.
+- Apresentação da marca;
+- Catálogo de serviços;
+- Experiência visual moderna;
+- Solicitação de agendamentos;
+- Automação de atendimento utilizando Make.com.
 
 O site foi construído utilizando recursos no-code/low-code do Framer, combinados com integrações externas para automação operacional.
 
@@ -53,10 +53,10 @@ O site foi construído utilizando recursos no-code/low-code do Framer, combinado
 Os serviços da Ozzy Barbearia são organizados utilizando o CMS do Framer.
 
 Cada serviço possui:
-- título;
-- descrição;
-- imagem;
-- página dinâmica própria;
+- Título;
+- Descrição;
+- Imagem;
+- Página dinâmica própria;
 - CTA de agendamento.
 
 ## Serviços cadastrados
@@ -93,11 +93,11 @@ Abra o projeto Ozzy Barbearia no dashboard do Framer.
 ### 2. Validar Conteúdo
 
 Antes da publicação:
-- revise textos;
-- valide links;
-- valide páginas;
-- valide imagens;
-- teste o formulário.
+- Revise textos;
+- Valide links;
+- Valide páginas;
+- Valide imagens;
+- Teste o formulário.
 
 ---
 
@@ -107,8 +107,8 @@ No Framer:
 
 1. Clique em **Publish**
 2. Escolha o domínio:
-   - domínio do Framer;
-   - domínio customizado.
+   - Domínio do Framer;
+   - Domínio customizado.
 3. Confirme a publicação.
 
 ### 4. Link Publico do Projeto no Framer
@@ -137,9 +137,9 @@ Cliente → Formulário Framer → Webhook Make.com → Google Sheets → Email 
 
 A integração com Make.com automatiza:
 
-- recebimento de agendamentos;
-- persistência dos dados;
-- envio de confirmação automática por email.
+- Recebimento de agendamentos;
+- Persistência dos dados;
+- Envio de confirmação automática por email.
 
 ---
 
@@ -209,7 +209,7 @@ Campos esperados:
 ## Módulo 2 — Google Sheets
 
 Responsável por:
-- armazenar os agendamentos em planilha.
+- Armazenar os agendamentos em planilha.
 
 Planilha esperada:
 ```text
@@ -229,10 +229,10 @@ Responsável por:
 - enviar confirmação automática para o cliente.
 
 Conteúdo enviado:
-- confirmação do agendamento;
-- data;
-- horário;
-- imagem da Ozzy Barbearia.
+- Confirmação do agendamento;
+- Data;
+- Horário;
+- Imagem da Ozzy Barbearia.
 
 ---
 
@@ -252,10 +252,10 @@ Após importar o cenário:
 ## Validar IDs
 
 Verifique:
-- planilha Google Sheets;
-- webhook;
-- conexões Google;
-- arquivos de imagem utilizados no email.
+- Planilha Google Sheets;
+- Webhook;
+- Conexões Google;
+- Arquivos de imagem utilizados no email.
 
 ---
 
@@ -359,22 +359,22 @@ Envie um agendamento de teste.
 ### 4. Validar execução no Make.com
 
 No cenário:
-- verifique execução do webhook;
-- valide entrada dos dados.
+- Verifique execução do webhook;
+- Valide entrada dos dados.
 
 ---
 
 ### 5. Validar Google Sheets
 
 Confirme se:
-- uma nova linha foi criada.
+- Uma nova linha foi criada.
 
 ---
 
 ### 6. Validar Email
 
 Confirme:
-- recebimento do email automático.
+- Recebimento do email automático.
 
 ---
 
@@ -395,10 +395,10 @@ Confirme:
 # Responsividade
 
 O projeto utiliza:
-- layouts fluidos;
-- grids responsivos;
-- menu colapsável;
-- adaptação mobile nativa do Framer.
+- Layouts fluidos;
+- Grids responsivos;
+- Menu colapsável;
+- Adaptação mobile nativa do Framer.
 
 ---
 
@@ -406,19 +406,19 @@ O projeto utiliza:
 
 ## Framer
 
-- reutilizar componentes;
-- centralizar estilos;
-- evitar duplicação visual;
-- utilizar CMS sempre que possível.
+- Reutilizar componentes;
+- Centralizar estilos;
+- Evitar duplicação visual;
+- Utilizar CMS sempre que possível.
 
 ---
 
 ## Make.com
 
-- manter nomes dos campos consistentes;
-- validar erros de execução;
-- utilizar filtros para evitar dados inválidos;
-- monitorar limite de operações.
+- Manter nomes dos campos consistentes;
+- Validar erros de execução;
+- Utilizar filtros para evitar dados inválidos;
+- Monitorar limite de operações.
 
 ---
 
@@ -451,10 +451,10 @@ Projeto Ozzy Barbearia
 
 ## Limitações do Framer
 
-- menor controle sobre HTML final;
-- classes geradas automaticamente;
-- limitações avançadas de backend;
-- dependência da infraestrutura da plataforma.
+- Menor controle sobre HTML final;
+- Classes geradas automaticamente;
+- Limitações avançadas de backend;
+- Dependência da infraestrutura da plataforma.
 
 ---
 
@@ -471,10 +471,10 @@ A combinação entre:
 permite criar uma experiência funcional, automatizada e escalável sem necessidade de backend tradicional.
 
 O projeto foi estruturado para facilitar:
-- manutenção;
-- evolução futura;
-- reutilização;
-- onboarding de novos desenvolvedores.
+- Manutenção;
+- Evolução futura;
+- Reutilização;
+- Onboarding de novos desenvolvedores.
 
 Acessa a documentação completa [aqui.](/docs/documentation.pdf)
 Assista ao vídeo de apresentação do projeto [aqui.](https://drive.google.com/file/d/1WzrPzscTGI48_sxW96IOHpwx7jTCBqO0/view?usp=sharing)
